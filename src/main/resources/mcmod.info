@@ -1,0 +1,16 @@
+[
+{
+  "modid": "noendermanpickup",
+  "name": "No Enderman Pickup",
+  "description": "A mod to disallow Enderman pickup!",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Dj"],
+  "credits": "The Internet",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
