@@ -17,7 +17,7 @@ public class NoEndermanPickup
     public static CommonProxy proxy = new CommonProxy();
     public static final String MODID = "noendermanpickup";
     public static final String NAME = "No Enderman Pickup";
-    public static final String VERSION = "@version@";  
+    public static final String VERSION = "1.1";  
     
     @EventHandler
     void preInit( FMLPreInitializationEvent event )
