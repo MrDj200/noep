@@ -11,7 +11,7 @@ import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
  *
  * @author Dj
  */
-@Mod(modid = NoEndermanPickup.MODID, name = NoEndermanPickup.NAME, version = NoEndermanPickup.VERSION, acceptableRemoteVersions = "*") 
+@Mod(modid = NoEndermanPickup.MODID, name = NoEndermanPickup.NAME, version = NoEndermanPickup.VERSION, acceptableRemoteVersions = "*", acceptedMinecraftVersions = "*") 
 public class NoEndermanPickup 
 {
     public static CommonProxy proxy = new CommonProxy();
