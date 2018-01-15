@@ -35,7 +35,7 @@ public class CommonProxy
         for (Block b : test)
         {
             EntityEnderman.setCarriable(b, false);
-            LogHelper.info("Disabled Enderman Pickup of Block: " + b.getLocalizedName());
+            //LogHelper.info("Disabled Enderman Pickup of Block: " + b.getLocalizedName());
         }
     }
 }
